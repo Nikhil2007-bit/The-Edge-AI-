@@ -1,0 +1,6 @@
+{
+  "name": "Edge AI & Simulation Proposal",
+  "description": "Formal project proposal and working guide for real-time Edge AI inference and OpenUSD scene simulation on NVIDIA Jetson Nano.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
